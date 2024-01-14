@@ -1,4 +1,4 @@
-Data could be obtained from the following two articles:
+Multiview data could be obtained from the following two articles:
 
 MSTAR: H. Zhang, N. M. Nasrabadi, Y. Zhang, and T. S. Huang, “Multi-view automatic target recognition using joint sparse representation,” IEEE Transactions on Aerospace and Electronic Systems, vol. 48, no. 3, pp. 2481–2497, 2012.
 
